@@ -1,0 +1,98 @@
+[
+  {
+    "table_id": "1",
+    "start_time": null,
+    "end_time": null,
+    "play_hours": "",
+    "play_minutes": "",
+    "availibility": true
+  },
+  {
+    "table_id": "2",
+    "start_time": null,
+    "end_time": null,
+    "play_hours": "",
+    "play_minutes": "",
+    "availibility": true
+  },
+  {
+    "table_id": "3",
+    "start_time": null,
+    "end_time": null,
+    "play_hours": "",
+    "play_minutes": "",
+    "availibility": true
+  },
+  {
+    "table_id": "4",
+    "start_time": null,
+    "end_time": null,
+    "play_hours": "",
+    "play_minutes": "",
+    "availibility": true
+  },
+  {
+    "table_id": "5",
+    "start_time": "10:15",
+    "end_time": null,
+    "play_hours": "",
+    "play_minutes": "",
+    "availibility": false
+  },
+  {
+    "table_id": "6",
+    "start_time": null,
+    "end_time": null,
+    "play_hours": "",
+    "play_minutes": "",
+    "availibility": true
+  },
+  {
+    "table_id": "7",
+    "start_time": null,
+    "end_time": null,
+    "play_hours": "",
+    "play_minutes": "",
+    "availibility": true
+  },
+  {
+    "table_id": "8",
+    "start_time": "1000",
+    "end_time": null,
+    "play_hours": "",
+    "play_minutes": "",
+    "availibility": false
+  },
+  {
+    "table_id": "9",
+    "start_time": null,
+    "end_time": null,
+    "play_hours": "",
+    "play_minutes": "",
+    "availibility": true
+  },
+  {
+    "table_id": "10",
+    "start_time": null,
+    "end_time": null,
+    "play_hours": "",
+    "play_minutes": "",
+    "availibility": true
+  },
+  {
+    "table_id": "11",
+    "start_time": null,
+    "end_time": null,
+    "play_hours": "",
+    "play_minutes": "",
+    "availibility": true
+  },
+  {
+    "table_id": "12",
+    "start_time": null,
+    "end_time": null,
+    "play_hours": "",
+    "play_minutes": "",
+    "availibility": true
+  }
+]
